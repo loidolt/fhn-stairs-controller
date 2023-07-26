@@ -1,17 +1,16 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: in_progress
+date: 07/27/2023
+tags: electronics, 3d-printing, woodworking
+description: Controller for lifting, locking, and lowering a set of movable stairs using a celing mounted hoist and a custom locking bar.
+slug: fhn-stairs-controller
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# FHN Stairs Controller
+Controller for lifting, locking, and lowering a set of movable stairs using a celing mounted hoist and a custom locking bar.
 
 ## Table of Contents
-- [Title](#title)
+- [FHN Stairs Controller](#fhn-stairs-controller)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
@@ -28,9 +27,10 @@ slug: title-kebab-case
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Fusion 360
+- SketchUp
+- Arduino
+- ESPHome
 
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
